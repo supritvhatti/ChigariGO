@@ -11,19 +11,15 @@ Effortlessly book tickets for Chigari BRTS using a streamlined interface. This m
 - **Registration**: Enables students to easily register for a pass, granting them access to discounted fares.
 - **Recharge**: Allows students to conveniently recharge their passes through the platform.
 
-### 3. **Recharge History**
-- Maintains a comprehensive record of all recharge transactions.
-- Linked to a robust backend database to ensure data integrity and easy retrieval.
-
-### 4. **Route Map**
+### 3. **Route Map**
 - Interactive module displaying the routes and schedules of Chigari BRTS.
 - Assists users in planning their journeys efficiently.
 
-### 5. **Login and Registration**
+### 4. **Login and Registration**
 - Features a secure **authentication system** to protect user accounts.
 - Enables new users to register effortlessly while providing a smooth login experience for existing users.
 
-### 6. **About Page**
+### 5. **About Page**
 Provides detailed information about the Chigari BRTS system and the ChigariGO application.
 
 ## Technologies Used
